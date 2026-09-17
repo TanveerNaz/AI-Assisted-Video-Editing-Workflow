@@ -258,3 +258,9 @@ AI is increasingly becoming a practical assistant in creative workflows.
 This project demonstrates how multiple AI-assisted tools can be combined with human creativity and conventional editing techniques to create a more efficient video production process.
 
 The goal is not to eliminate the role of the creator, but to **reduce repetitive work, accelerate production, and lower the technical barriers to creating quality video content.**
+## Video demonstration
+### Raw Video
+Watch the raw video
+https://drive.google.com/file/d/1nJWLUl04xUchOHDFeWC4-RbqqYHw-nwh/view?usp=sharing
+### final edited video
+https://drive.google.com/file/d/14SxL00eWpKP9c_kH-z8pMkx9V4Ed8D4u/view?usp=sharing
